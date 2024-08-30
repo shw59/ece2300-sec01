@@ -3,3 +3,4 @@ AND
 OR
 NAND
 NOR
+XOR
